@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1623785729 source:d:\lexical analyzer\main.cpp
+	<iostream>
+	"Token.h"
+
+1623521441 source:c:\tansoften\projects\lexical analyzer\src\apronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623243105 c:\tansoften\projects\lexical analyzer\include\apronouns.h
+
+1623792864 source:c:\tansoften\projects\lexical analyzer\main.cpp
+	<iostream>
+	"Token.h"
+	<fstream>
+
+1623245942 source:c:\tansoften\projects\lexical analyzer\src\token.cpp
+	"Token.h"
+
+1623789873 c:\tansoften\projects\lexical analyzer\include\token.h
+	<iostream>
+
+1623623609 source:c:\tansoften\projects\lexical analyzer\src\epronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623481125 source:c:\tansoften\projects\lexical analyzer\src\bpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623529732 source:c:\tansoften\projects\lexical analyzer\src\fpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623488851 source:c:\tansoften\projects\lexical analyzer\src\mpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623792864 source:z:\tansoften\projects\lexical analyzer\main.cpp
+	<iostream>
+	"Token.h"
+	<fstream>
+
+1623789873 z:\tansoften\projects\lexical analyzer\include\token.h
+	<iostream>
+
+1623521441 source:z:\tansoften\projects\lexical analyzer\src\apronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623481125 source:z:\tansoften\projects\lexical analyzer\src\bpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623623609 source:z:\tansoften\projects\lexical analyzer\src\epronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623245942 source:z:\tansoften\projects\lexical analyzer\src\token.cpp
+	"Token.h"
+
+1623529732 source:z:\tansoften\projects\lexical analyzer\src\fpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623488851 source:z:\tansoften\projects\lexical analyzer\src\mpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623243105 z:\tansoften\projects\lexical analyzer\include\apronouns.h
+
+1623487288 source:c:\tansoften\projects\lexical analyzer\src\hpronoun.cpp
+	<iostream>
+	"Token.h"
+
+1623487288 source:z:\tansoften\projects\lexical analyzer\src\hpronoun.cpp
+	<iostream>
+	"Token.h"
+
+1623512954 source:z:\tansoften\projects\lexical analyzer\src\ipronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623512954 source:c:\tansoften\projects\lexical analyzer\src\ipronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623793516 source:c:\tansoften\projects\lexical analyzer\src\npronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623793516 source:z:\tansoften\projects\lexical analyzer\src\npronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623622824 source:z:\tansoften\projects\lexical analyzer\src\hpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623327674 d:\lexical analyzer\include\token.h
+	<iostream>
+
+1623521441 source:d:\lexical analyzer\src\apronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623481125 source:d:\lexical analyzer\src\bpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623623609 source:d:\lexical analyzer\src\epronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623529732 source:d:\lexical analyzer\src\fpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623622824 source:d:\lexical analyzer\src\hpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623512954 source:d:\lexical analyzer\src\ipronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623488851 source:d:\lexical analyzer\src\mpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623495563 source:d:\lexical analyzer\src\npronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623245942 source:d:\lexical analyzer\src\token.cpp
+	"Token.h"
+
+1623745931 source:d:\lexical analyzer\src\opronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623741565 source:d:\lexical analyzer\src\spronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623746042 source:d:\lexical analyzer\src\tpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623533622 source:d:\lexical analyzer\src\upromouns.cpp
+	<iostream>
+	"Token.h"
+
+1623672398 source:d:\lexical analyzer\src\upronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623671961 source:d:\lexical analyzer\src\ypronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623618152 source:d:\lexical analyzer\src\wpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623785236 source:d:\lexical analyzer\src\endrnouns.cpp
+	<iostream>
+	"Token.h"
+
+1623745931 source:z:\tansoften\projects\lexical analyzer\src\opronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623741565 source:z:\tansoften\projects\lexical analyzer\src\spronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623746042 source:z:\tansoften\projects\lexical analyzer\src\tpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623672398 source:z:\tansoften\projects\lexical analyzer\src\upronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623618152 source:z:\tansoften\projects\lexical analyzer\src\wpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623671961 source:z:\tansoften\projects\lexical analyzer\src\ypronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623785236 source:c:\tansoften\projects\lexical analyzer\src\endrnouns.cpp
+	<iostream>
+	"Token.h"
+
+1623622824 source:c:\tansoften\projects\lexical analyzer\src\hpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623745931 source:c:\tansoften\projects\lexical analyzer\src\opronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623741565 source:c:\tansoften\projects\lexical analyzer\src\spronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623746042 source:c:\tansoften\projects\lexical analyzer\src\tpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623672398 source:c:\tansoften\projects\lexical analyzer\src\upronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623618152 source:c:\tansoften\projects\lexical analyzer\src\wpronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623671961 source:c:\tansoften\projects\lexical analyzer\src\ypronouns.cpp
+	<iostream>
+	"Token.h"
+
+1623785236 source:z:\tansoften\projects\lexical analyzer\src\endrnouns.cpp
+	<iostream>
+	"Token.h"
+
+1623792547 source:z:\tansoften\projects\lexical analyzer\src\hasarticle.cpp
+	<Token.h>
+	<iostream>
+
+1623792547 source:c:\tansoften\projects\lexical analyzer\src\hasarticle.cpp
+	<Token.h>
+	<iostream>
+

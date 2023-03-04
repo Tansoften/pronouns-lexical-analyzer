@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lexical Analyzer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lexical Analyzer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lexical Analyzer" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Token.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/APronouns.cpp" />
+		<Unit filename="src/BPronouns.cpp" />
+		<Unit filename="src/EPronouns.cpp" />
+		<Unit filename="src/EndRNouns.cpp" />
+		<Unit filename="src/FPronouns.cpp" />
+		<Unit filename="src/HPronouns.cpp" />
+		<Unit filename="src/HasArticle.cpp" />
+		<Unit filename="src/IPronouns.cpp" />
+		<Unit filename="src/MPronouns.cpp" />
+		<Unit filename="src/NPronouns.cpp" />
+		<Unit filename="src/OPronouns.cpp" />
+		<Unit filename="src/SPronouns.cpp" />
+		<Unit filename="src/TPronouns.cpp" />
+		<Unit filename="src/Token.cpp" />
+		<Unit filename="src/UPronouns.cpp" />
+		<Unit filename="src/WPronouns.cpp" />
+		<Unit filename="src/YPronouns.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
